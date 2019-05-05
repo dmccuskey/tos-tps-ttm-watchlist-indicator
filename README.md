@@ -32,17 +32,17 @@ Click on the script file above (`ttms-watchlist-column.ts`). On the next page cl
 
 **2. Update watchlist column**
 
-![update step one](images/update-01-menu.png)
-
 Right click on the column header to get the dropdown and select *Edit Formula...*. The *ThinkScript Editor* dialog will appear.
 
-![update step two](images/update-02-code-dialog.png)
+![update step one](images/update-01-menu.png)
 
 In the thinkScript editor box, select all of the current content and paste the new code into the box.
 
+![update step two](images/update-02-code-dialog.png)
+
 Click on the OK button.
 
-Repeat these steps for all of the existing columns.
+*Repeat steps 1-2 for any other existing columns.*
 
 ### Add script to a new column
 
@@ -62,9 +62,10 @@ Repeat these steps for all of the existing columns.
 
 4. On *any* column in the watchlist, right-click the header and select *Customize...*.
 
+    This will open up the Watchlist dialog where we add the script to a new column.
+
     ![new step 4](images/new-04-menu.png)
 
-    This will open up the Watchlist dialog.
 
 5. In the input box labeled *Lookup a column...* type in the name you chose in step 3, eg `testtest`.
 
