@@ -44,13 +44,7 @@ Click on the OK button.
 
 Repeat these steps for all of the existing columns.
 
-# Acknowledgements
-
-Original code by Eric Purdy and Rich Stratmann
-
-There was no license on the original code, so I have placed the new updates under the MIT license.
-
-### Update an new column
+### Add script to a new column
 
 1. in ToS, go to *Setup > Open Shared Item...*
 
@@ -95,3 +89,9 @@ There was no license on the original code, so I have placed the new updates unde
     Then click OK on the Watchlist Customize dialog.
 
 *Repeat steps 1-8 for each new column that you wish to add.*
+
+# Acknowledgements
+
+Original code by Eric Purdy and Rich Stratmann
+
+There was no license on the original code, so I have placed the new updates under the MIT license.
