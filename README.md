@@ -1,2 +1,8 @@
-# tos-tps-ttm-watchlist-indicator
-TPS TTM watchlist indicator for ThinkOrSwim
+# TTM Squeeze watchlist column indicator
+
+This is the original script based off of this shared item: http://tos.mx/NmQRcn
+
+
+
+
+
