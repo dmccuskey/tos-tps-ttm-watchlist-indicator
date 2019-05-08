@@ -20,7 +20,10 @@ Black | _There is no squeeze in play._
 
 ## Installation
 
-You can either *update* an existing column or create a new column.
+You can either *update* an existing column or create a new column. *Instructions for both are listed below.*
+
+* [Update an existing column](#update-an-existing-column)
+* [Add a script to a new column](#add-a-script-to-a-new-column)
 
 ### Update an existing column
 
@@ -44,7 +47,7 @@ Click on the OK button.
 
 *Repeat steps 1-2 for any other existing columns.*
 
-### Add script to a new column
+### Add a script to a new column
 
 1. in ToS, go to *Setup > Open Shared Item...*
 
