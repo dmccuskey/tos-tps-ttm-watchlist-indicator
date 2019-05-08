@@ -91,6 +91,33 @@ Click on the OK button.
 
 *Repeat steps 1-8 for each new column that you wish to add.*
 
+# Troubleshooting
+
+* I see "loading..." in my columns
+
+    Apparently all of the processing for the columns is done on *TDA Servers*, so it's possible for the data/updates to take a awhile to show in ToS. This is more likely to happen if it's a busy day in the markets and/or you have a lot of entries on your watchlist.
+
+    Some tips to mitigate issues:
+    * Try to keep the watchlist small
+
+      You could have a Master watchlist referenced in the evening and a smaller one for market hours which has your recent selections / near-term trade ideas selected from Master.
+
+    * Wait until after market to view a large watchlist
+
+    * Wait a few minutes for the data to load / refresh
+
+      IIRC, I read somewhere it could take a few minutes during intraday for data to update.
+
+    * Do not jump back and forth between watchlists in the same watchlist pane.
+
+        When a watchlist is changed, the entire watchlist table is re-drawn with new data. Use other watchlist panes without this indicator.
+
+# References
+
+* Issues with "loading..."
+    * https://researchtrade.com/forum/read.php?7,1419
+    * https://simpler-trading.helpscoutdocs.com/article/455-st-percentage-indicators---think-or-swim
+
 # Acknowledgements
 
 Original code by Eric Purdy and Rich Stratmann
